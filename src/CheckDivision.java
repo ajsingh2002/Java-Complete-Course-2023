@@ -1,0 +1,2 @@
+public class CheckDivision  {
+}
