@@ -9,11 +9,11 @@ public class EquilateralIsoscelesOrScaleneTriangle {
         System.out.println("Enter the Z value");
         int z = scan.nextInt();
         if (x==y && y==z)
-            System.out.println("Equilateral Triangle");
+            System.out.println("Equilateral_Triangle");
         else if(x!=y && y!=z && z!=x)
-            System.out.println("Scalene Triangle");
+            System.out.println("Scalene_Triangle");
         else
-            System.out.println("Isosceles Triangle");
+            System.out.println("Isosceles_Triangle");
 
     }
 }
