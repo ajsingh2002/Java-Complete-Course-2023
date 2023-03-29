@@ -5,8 +5,8 @@ public class ValidForVoteOrNot {
         System.out.println("Enter your age");
         int age = scan.nextInt();
         if (age>18)
-            System.out.println("Eligible for Vote");
+            System.out.println("Eligible for Vote ");
         else
-            System.out.println("Not Eligible for Vote");
+            System.out.println("Not Eligible for Vote ");
     }
 }
